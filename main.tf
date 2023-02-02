@@ -44,6 +44,3 @@ resource "azurerm_app_service" "app-service" {
     type = "SystemAssigned"
   }
   }
-
-
- 
